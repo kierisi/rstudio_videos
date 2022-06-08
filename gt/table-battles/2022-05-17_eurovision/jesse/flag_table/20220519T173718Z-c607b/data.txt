@@ -1,0 +1,8 @@
+file: flag_table.rds
+file_size: 4463
+pin_hash: c607bbf3fc455c30
+type: rds
+title: 'flag_table: a pinned 206 x 3 data frame'
+description: ~
+created: 20220519T173718Z
+api_version: 1.0

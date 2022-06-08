@@ -1,0 +1,8 @@
+file: nonreactive_gt_table.rds
+file_size: 33652
+pin_hash: 7034d1a886779675
+type: rds
+title: 'nonreactive_gt_table: a pinned list'
+description: ~
+created: 20220519T165220Z
+api_version: 1.0

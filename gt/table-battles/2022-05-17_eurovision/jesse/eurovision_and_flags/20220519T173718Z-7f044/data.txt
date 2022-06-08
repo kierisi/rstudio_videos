@@ -1,0 +1,8 @@
+file: eurovision_and_flags.rds
+file_size: 8046
+pin_hash: 7f044d1aaa615629
+type: rds
+title: 'eurovision_and_flags: a pinned 211 x 9 data frame'
+description: ~
+created: 20220519T173718Z
+api_version: 1.0

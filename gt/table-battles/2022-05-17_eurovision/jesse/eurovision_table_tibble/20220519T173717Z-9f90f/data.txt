@@ -1,0 +1,8 @@
+file: eurovision_table_tibble.rds
+file_size: 6745
+pin_hash: 9f90f79d2dba8e88
+type: rds
+title: 'eurovision_table_tibble: a pinned 211 x 8 data frame'
+description: ~
+created: 20220519T173717Z
+api_version: 1.0
